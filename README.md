@@ -1,6 +1,6 @@
 # 🎤 Jumping Miku 🎶
 
-Welcome to **Jumping Miku!** A fun little game featuring our favorite virtual idol, **Hatsune Miku**! 🌸💙
+Welcome to **Jumping Miku!** A fun little game featuring my favorite virtual idol, **Hatsune Miku**! 🌸💙
 
 ## 🌟 Play Now!
 ✨ Live Demo: [Jumping Miku](https://jumping-miku.netlify.app/)  
